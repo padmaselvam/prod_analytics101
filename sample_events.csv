@@ -1,0 +1,7 @@
+user_id,event_name,timestamp
+1,signup,2025-06-01
+1,login,2025-06-02
+2,signup,2025-06-01
+2,login,2025-06-04
+1,purchase,2025-06-05
+2,purchase,2025-06-06
