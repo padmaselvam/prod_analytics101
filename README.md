@@ -29,19 +29,19 @@ pip install -r requirements.txt
 Run basic metrics:
 
 ```bash
-python src/basic_metrics.py
+python basic_metrics.py
 ```
 
 Run retention analysis:
 
 ```bash
-python src/retention_analysis.py
+python retention_analysis.py
 ```
 
 Run funnel analysis:
 
 ```bash
-python src/funnel_analysis.py
+python funnel_analysis.py
 ```
 
 ## 📈 Sample Metrics
